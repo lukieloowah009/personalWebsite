@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/personalwebsite/static/css/main.a065eb7c.chunk.css",
+    "main.js": "/personalwebsite/static/js/main.b709a5bd.chunk.js",
+    "main.js.map": "/personalwebsite/static/js/main.b709a5bd.chunk.js.map",
+    "runtime-main.js": "/personalwebsite/static/js/runtime-main.1ede9e1e.js",
+    "runtime-main.js.map": "/personalwebsite/static/js/runtime-main.1ede9e1e.js.map",
+    "static/css/2.559fd73f.chunk.css": "/personalwebsite/static/css/2.559fd73f.chunk.css",
+    "static/js/2.ab01d862.chunk.js": "/personalwebsite/static/js/2.ab01d862.chunk.js",
+    "static/js/2.ab01d862.chunk.js.map": "/personalwebsite/static/js/2.ab01d862.chunk.js.map",
+    "index.html": "/personalwebsite/index.html",
+    "precache-manifest.2e594635fd91fdf31f81f181e233677f.js": "/personalwebsite/precache-manifest.2e594635fd91fdf31f81f181e233677f.js",
+    "service-worker.js": "/personalwebsite/service-worker.js",
+    "static/css/2.559fd73f.chunk.css.map": "/personalwebsite/static/css/2.559fd73f.chunk.css.map",
+    "static/css/main.a065eb7c.chunk.css.map": "/personalwebsite/static/css/main.a065eb7c.chunk.css.map",
+    "static/media/HEADSHOT.jpeg": "/personalwebsite/static/media/HEADSHOT.8505753f.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ede9e1e.js",
+    "static/css/2.559fd73f.chunk.css",
+    "static/js/2.ab01d862.chunk.js",
+    "static/css/main.a065eb7c.chunk.css",
+    "static/js/main.b709a5bd.chunk.js"
+  ]
+}
